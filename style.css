@@ -21,3 +21,38 @@ html {
     height: 200px;
     width: 200px;
 }
+
+h1 {
+    font-weight: 100;
+    letter-spacing: 7;
+    font-size: 35px;
+}
+
+p {
+    font-weight: 230;
+    letter-spacing: 1;
+}
+
+h5 {
+    font-weight: 1000;
+    letter-spacing: 2;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+}
+
+.social-icons {
+    font-size: 35px;
+}
+
+.social-icons {
+text-align: center;
+}
+
+.social-icons a {
+    color: red;
+}
+
+
