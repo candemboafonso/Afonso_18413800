@@ -30,33 +30,30 @@ html {
 
 h1 {
     font-weight: 100;
-    letter-spacing: 7;
-    font-size: 35px;
-    font-family: 'Merienda', cursive;
+    letter-spacing: 10;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
 }
 
 h4 {
     font-weight: 100;
     letter-spacing: 1;
-    font-family: 'Stalemate', cursive;
+    font-family: 'Permanent Marker', cursive;
 }
 
 .social-icons {
-    font-size:20;
-    
-
-}
-
-.social-icons {
-text-align: center;
-
-}
+    font-size:20px;
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem;
+} 
 
 .social-icons a {
     color: white;
+    margin:.7rem;
 }
 
-.
+
 
 
 
