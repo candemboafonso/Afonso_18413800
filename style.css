@@ -31,18 +31,19 @@ html {
 h1 {
     font-weight: 100;
     letter-spacing: 10;
-    font-size: 30px;
-    font-family: 'Permanent Marker', cursive;
+    font-size: 33px;
+    font-family: 'Indie Flower', cursive;
 }
 
 h4 {
     font-weight: 100;
     letter-spacing: 1;
-    font-family: 'Permanent Marker', cursive;
+    font-size: 22px;
+    font-family: 'Indie Flower', cursive;
 }
 
 .social-icons {
-    font-size:20px;
+    font-size:22px;
     text-align: center;
     padding: 2rem;
     margin: 2rem;
